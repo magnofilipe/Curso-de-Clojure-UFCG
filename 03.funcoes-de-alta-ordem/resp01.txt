@@ -1,0 +1,5 @@
+Uma LP tratar funções como objetos de primeira classe significa dizer que
+as funções devem ter o mesmo "status" que qualquer outro tipo de dado/objeto
+da linguagem, isto é: ser atríbuida a variáveis, armazenadas em estruturas
+de dados, ser passadas como argumentos de invocação de funções e ser retornadas
+como valores resultantes de funções.
